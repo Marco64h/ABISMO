@@ -23,8 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "você", // required by Discord API, not shown in the client
-        state: "3",     // this is what people actually see
+        name: "V̶̨͙͎̗͎̏͋͆͊̆̕o̶̡̱̺͇̬͕̘̭͕̽͌͐̏̔̾͋̑̊̓̅́̌͠͠c̸̢̲̘̲̣̙̟̰͎̯̔̍̀̓͋̋̀̀͝ê̵̼̥̱̖̮̻̫͖̱̂̾̌̏͐͂̄͘", // required by Discord API, not shown in the client
+        state: ".̷̡̢̱͇̬̮̣͍͛̈́͐͆̃̃̅̇̐̒̚͝ͅ.̶̛͖͈̥̝̘͔̣̯̭̎̿̔̒͋́͝.̸̥͚͍̹̲̳͚̪̍̀̒̊̽̈̈́̿̓̊̚ͅͅ
+̶̨̦̭̮̳͚̣͍̏̾́̈́̐̉̋̃͛̾̇̅͑̋",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
